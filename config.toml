@@ -1,0 +1,12 @@
+baseURL = "https://anari.io"
+languageCode = "en-us"
+title = "Ali Anari"
+theme = "minos"
+paginate = 10
+
+# PygmentsCodeFences = true
+# PygmentsStyle = "vs"
+
+[params]
+    smartToc = true
+    katex = true
